@@ -1,3 +1,3 @@
 # first_repo
 all the promotion files
-#this is my first change
+This is my first change in Git
